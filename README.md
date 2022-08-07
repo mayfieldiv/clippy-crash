@@ -1,3 +1,5 @@
+https://github.com/rust-lang/rust-clippy/issues/9297
+
 To induce an internal compiler error in clippy (as of build affe0d3a 2022-08-05), run `cargo clippy --tests` on this repo
 
 ```
